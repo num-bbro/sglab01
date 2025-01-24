@@ -4,11 +4,11 @@ version = 4
 
 [[package]]
 name = "sglab01"
-version = "0.1.2"
+version = "0.1.3"
 
 [[package]]
 name = "sglab01_bin"
-version = "0.1.2"
+version = "0.1.3"
 dependencies = [
  "sglab01_lib",
 ]
